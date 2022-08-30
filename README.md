@@ -1,3 +1,11 @@
+五个临时邮箱推荐：
+
+https://email10min.com/
+https://www.mailtemp.net/
+https://10minmailnet.com/
+https://email10min.net/
+https://tenminutesmail.net/
+
 > 简单来说这还是造轮子，但是是因为我用别人轮子遇到了麻烦，一难调试二文档不全，虽然就几行配置，但是我是真的佩服就几行配置都难倒了我。跑起来了是跑起来了，但是工作是真的不正常。这里的阅后即焚目前来说是相对的，你需要手动清理。
 
 无需注册，独立邮箱地址，支持富文本的邮件（html），支持 RSS 订阅，自动刷新，可手动删除账号。
@@ -48,10 +56,3 @@ $ docker-compose -f docker-compose.yaml up -d
 ![或者查看项目里的 screenshot.png](screenshot.png)
 
 Enjoy~
-
-五个临时邮箱推荐：
-https://email10min.com/
-https://www.mailtemp.net/
-https://10minmailnet.com/
-https://email10min.net/
-https://tenminutesmail.net/
