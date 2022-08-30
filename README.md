@@ -48,3 +48,10 @@ $ docker-compose -f docker-compose.yaml up -d
 ![或者查看项目里的 screenshot.png](screenshot.png)
 
 Enjoy~
+
+五个临时邮箱推荐：
+https://email10min.com/
+https://www.mailtemp.net/
+https://10minmailnet.com/
+https://email10min.net/
+https://tenminutesmail.net/
